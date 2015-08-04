@@ -1,0 +1,44 @@
+#all{
+	width:1000px;
+	margin:0 auto;
+}
+
+#menu{
+	width:1000px;
+}
+
+#wrapper{
+	font-size:0;
+	margin:0px auto;
+	height:960px;
+	width:960px;
+	border:10px solid white;
+
+
+}
+
+.break{
+	
+}
+
+h1{
+	text-align: center;
+	color:white;
+
+}
+
+body{
+	background-color:black;
+	color:white;
+	text-align:center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.grid{
+	display:inline-block;
+	left:35%;
+}
+
+li{
+	display: inline;
+}
